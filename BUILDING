@@ -15,7 +15,8 @@ file. It is only used for generating the translation template files.
 REQUIREMENTS AND BUILDING - Microsoft Windows
 =============================================
 
-See the separate file BUILDING_win32.txt
+See in the sibling "win32" directory the separate files starting 
+with BUILDING_win32...
 
 REQUIREMENTS AND BUILDING - Geneiric *BSD/Linux/*nix
 ====================================================
@@ -272,11 +273,6 @@ Mac OS X
 
 No detailed build instructions yet. Please see the README for info on MacOS/X.
 
-Microsoft Windows
-=================
-
-No build instructions yet. Please see the README for info on Scribus under
-Windows.
 
 Other distros/OSes
 ==================
